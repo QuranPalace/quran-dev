@@ -1,0 +1,102 @@
+*{ margin: 0; padding: 0; }
+body { font: 15px Helvetica, Sans-Serif; } 
+html { overflow-y: scroll; }
+* 									{ margin: 0; padding: 0; }
+body { font: 15px Helvetica, Sans-Serif; } 
+html { overflow-y: scroll; }
+#page-wrap							{ width: 720px; margin: 25px auto; } 
+p { margin: 0 0 8px 0; }
+a { text-decoration: none; }
+img { vertical-align: middle; }
+a img                               { border: 0; 180}
+ul { list-style: none; }
+h 1                                  { margin: 0 0 10px 0; }
+
+/* 
+LEVEL ONE
+*/
+ul .dropdown                         { position: relative; width: 100%; }
+ul .dropdown li                      { font-weight: bold; float: left; width: 180px; background: #ccc; position: relative; }
+ul .dropdown a:hover		            { color: #000; }
+ul .dropdown li a                    { display: block; padding: 20px 8px; color: #222; position: relative; z-index: 2000; }
+ul .dropdown li a:hover,
+ul .dropdown li a.hover              { background: #F3D673; position: relative; }
+
+
+/* 
+   LEVEL TWO
+ */
+ul .dropdown ul 						{ display: none; position: absolute; top: 0; left: 0; width: 180px; z-index: 1000; }
+ul .dropdown ul li 					{ font-weight: normal; background: #f6f6f6; color: #000; border-bottom: 1px solid #ccc; }
+ul .dropdown ul li a					{ display: block; background: #eee !important; } 
+ul .dropdown ul li a:hover			{ display: block; background: #F3D673 !important; } 
+
+
+/*img {
+	vertical-align: middle;
+}*/
+.tbl {
+	table-layout:fixed;
+	border-collapse: collapse;
+	background: #fff;
+}
+
+.tbl td {
+	text-overflow:ellipsis;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.tbl .M0 {
+	background-color: #C2DFFF;
+}
+.tbl .M1 {
+	background-color: #C3FDB8;
+}
+.tbl .M2 {
+	background-color: #FFF8C6;
+}
+.tbl .M3 {
+	background-color: #FCDFFF;
+}
+.tbl .M4 {
+	background-color: #E0B0FF;
+}
+.tbl .M5 {
+	background-color: #C3FDB8;
+}
+.tbl .M6 {
+	background-color: #CCFFFF;
+}
+.tbl .M7 {
+	background-color: #E5E4E2;
+}
+.tbl .M8 {
+	background-color: 	#E0FFFF;
+}
+.tbl .M9 {
+	background-color: #FFCBA4;
+}
+.tbl .M10 {
+	background-color: 	#FFDFDD;
+}
+a :link  
+{  
+	 text-decoration:none;  
+	 text-color: auto;
+}
+.cnsBox {
+	display: inline; 
+	 white-space:nowrap; 
+	padding: 2px; 
+	border: 2px solid gray;
+}
+.cnsList {
+	text-align: center; 
+	align: center; 
+	margin: 0px auto 0px auto; 
+	overflow: scroll; 
+	  overflow-y: hidden; 
+	  white-space:nowrap; 
+	height: 3em; 
+	width: 90%;
+}

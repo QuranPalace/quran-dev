@@ -1,0 +1,29 @@
+.aye-highlight {
+	background-color: #ffefef;
+}
+.sure {
+	border: blue solid 1px;
+	margin: 2px;
+
+	text-align: justify;
+	font-family: Scheherazade, Scheheraza;
+	font-size: 1.403em;
+	font-weight: normal;
+
+	direction: rtl;
+	width: 412px;
+	margin: 0px 30px;
+	padding: 16px 14px;
+	color: black;
+
+	outline: 0;
+
+	line-height: 2.35em;
+
+}
+#quran {
+	height: 100%;
+}
+body {
+	direction: rtl;
+}

@@ -1,0 +1,93 @@
+body {
+direction: rtl;
+}
+
+.tbl {
+	table-layout:fixed;
+	border-collapse: collapse;
+}
+
+.tbl td {
+	text-overflow:ellipsis;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.tbl .M0 {
+	background-color: #C2DFFF;
+}
+.tbl .M1 {
+	background-color: #C3FDB8;
+}
+.tbl .M2 {
+	background-color: #FFF8C6;
+}
+.tbl .M3 {
+	background-color: #FCDFFF;
+}
+.tbl .M4 {
+	background-color: #E0B0FF;
+}
+.tbl .M5 {
+	background-color: #C3FDB8;
+}
+.tbl .M6 {
+	background-color: #CCFFFF;
+}
+.tbl .M7 {
+	background-color: #E5E4E2;
+}
+.tbl .M8 {
+	background-color: 	#E0FFFF;
+}
+.tbl .M9 {
+	background-color: #FFCBA4;
+}
+.tbl .M10 {
+	background-color: 	#FFDFDD;
+}
+a :link  
+{  
+	 text-decoration:none;  
+	 text-color: auto;
+}
+.cnsWord {
+	display: inline; height:100%;
+	border: 1px solid gray;
+	font-family: KFGQPC Uthman Taha Naskh,KFGQPC_Naskh;
+	padding: 1em; 
+}
+.cnsWordEmpty {
+	display: inline; height:100%;
+}
+.cnsBox {
+	display: inline; 
+	white-space:nowrap; 
+	/*padding: 2px;  
+	border: 2px solid gray;*/
+}
+.cnsList {
+	text-align: center; 
+	align: center; 
+	margin: 0px auto 0px auto; 
+	overflow: scroll; 
+	  overflow-y: hidden; 
+	  white-space:nowrap; 
+	height: 3em; 
+	width: 90%;
+}
+
+.outerTable {
+margin: 10px;
+padding: 10px;
+border: 1px solid #2ef;
+width: 90%; margin: 1em auto 0px auto;
+}
+
+.innerTable {
+width: 98%; overflow: scroll; align: center; margin: 1em auto 0px auto; overflow-y: hidden;
+
+@font-face {
+	 font-family: 'KFGQPC_Naskh';
+	src: url('http://tanzil.net/res/font/eot/KFC_naskh.eot');
+	src: local('KFGQPC Uthman Taha Naskh'), url('http://tanzil.net/res/font/org/KFC_naskh.otf') format('opentype');
+} 

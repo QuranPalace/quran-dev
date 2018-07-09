@@ -1,0 +1,948 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.7.19)  19 JUL 2013 19:34
+entering extended mode
+ %&-line parsing enabled.
+**a2
+(./a2.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks14
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box26
+
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks16
+\pgfkeys@temptoks=\toks17
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks18
+))
+\pgf@x=\dimen105
+\pgf@y=\dimen106
+\pgf@xa=\dimen107
+\pgf@ya=\dimen108
+\pgf@xb=\dimen109
+\pgf@yb=\dimen110
+\pgf@xc=\dimen111
+\pgf@yc=\dimen112
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count88
+\c@pgf@countb=\count89
+\c@pgf@countc=\count90
+\c@pgf@countd=\count91
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count92
+\pgfsyssoftpath@bigbuffer@items=\count93
+)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen113
+\pgfmath@count=\count94
+\pgfmath@box=\box27
+\pgfmath@toks=\toks19
+\pgfmath@stack@operand=\toks20
+\pgfmath@stack@operation=\toks21
+)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count95
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen114
+\pgf@picmaxx=\dimen115
+\pgf@picminy=\dimen116
+\pgf@picmaxy=\dimen117
+\pgf@pathminx=\dimen118
+\pgf@pathmaxx=\dimen119
+\pgf@pathminy=\dimen120
+\pgf@pathmaxy=\dimen121
+\pgf@xx=\dimen122
+\pgf@xy=\dimen123
+\pgf@yx=\dimen124
+\pgf@yy=\dimen125
+\pgf@zx=\dimen126
+\pgf@zy=\dimen127
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen128
+\pgf@path@lasty=\dimen129
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen130
+\pgf@shorten@start@additional=\dimen131
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count96
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen132
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen133
+\pgf@pt@y=\dimen134
+\pgf@pt@temp=\dimen135
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen136
+\pgf@sys@shading@range@num=\count97
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box31
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box32
+)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen137
+\pgf@nodesepend=\dimen138
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen139
+\pgffor@skip=\dimen140
+\pgffor@stack=\toks22
+\pgffor@toks=\toks23
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count98
+\pgfplotmarksize=\dimen141
+)
+\tikz@lastx=\dimen142
+\tikz@lasty=\dimen143
+\tikz@lastxsaved=\dimen144
+\tikz@lastysaved=\dimen145
+\tikzleveldistance=\dimen146
+\tikzsiblingdistance=\dimen147
+\tikz@figbox=\box33
+\tikz@tempbox=\box34
+\tikztreelevel=\count99
+\tikznumberofchildren=\count100
+\tikznumberofcurrentchild=\count101
+\tikz@fig@count=\count102
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count103
+\pgfmatrixcurrentcolumn=\count104
+\pgf@matrix@numberofcolumns=\count105
+)
+\tikz@expandcount=\count106
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.code.tex
+File: tikzlibraryshapes.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.c
+ode.tex
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.t
+ex
+File: pgflibraryshapes.misc.code.tex 2008/10/07 v2.10 (rcs-revision 1.3)
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.cod
+e.tex
+File: pgflibraryshapes.symbols.code.tex 2009/10/27 v2.10 (rcs-revision 1.3)
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code
+.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.callouts.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.co
+de.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.c
+ode.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v2.10 (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box35
+\pgfnodeparttwobox=\box36
+\pgfnodepartthreebox=\box37
+\pgfnodepartfourbox=\box38
+\pgfnodeparttwentybox=\box39
+\pgfnodepartnineteenbox=\box40
+\pgfnodeparteighteenbox=\box41
+\pgfnodepartseventeenbox=\box42
+\pgfnodepartsixteenbox=\box43
+\pgfnodepartfifteenbox=\box44
+\pgfnodepartfourteenbox=\box45
+\pgfnodepartthirteenbox=\box46
+\pgfnodeparttwelvebox=\box47
+\pgfnodepartelevenbox=\box48
+\pgfnodeparttenbox=\box49
+\pgfnodepartninebox=\box50
+\pgfnodeparteightbox=\box51
+\pgfnodepartsevenbox=\box52
+\pgfnodepartsixbox=\box53
+\pgfnodepartfivebox=\box54
+)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrow
+s.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
+\arrowsize=\dimen148
+))
+No file a2.aux.
+\openout1 = `a2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen149
+\scratchbox=\box55
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen150
+\MPnumerator=\count111
+\everyMPtoPDFconversion=\toks25
+)
+\openout2 = `table2.aux'.
+
+ (./table2.tex <images/29112.png, id=4, 84.315pt x 84.315pt>
+File: images/29112.png Graphic file (type png)
+
+<use images/29112.png> <images/29113.png, id=6, 54.2025pt x 80.3pt>
+File: images/29113.png Graphic file (type png)
+
+<use images/29113.png> <images/29114.png, id=7, 88.33pt x 86.3225pt>
+File: images/29114.png Graphic file (type png)
+
+<use images/29114.png> <images/29115.png, id=8, 60.225pt x 80.3pt>
+File: images/29115.png Graphic file (type png)
+
+<use images/29115.png> <images/29116.png, id=9, 35.13126pt x 78.2925pt>
+File: images/29116.png Graphic file (type png)
+
+<use images/29116.png> <images/29117.png, id=10, 152.57pt x 81.30376pt>
+File: images/29117.png Graphic file (type png)
+
+<use images/29117.png> <images/29118.png, id=11, 88.33pt x 83.31125pt>
+File: images/29118.png Graphic file (type png)
+
+<use images/29118.png> <images/29119.png, id=12, 32.12pt x 80.3pt>
+File: images/29119.png Graphic file (type png)
+
+<use images/29119.png> <images/29120.png, id=13, 37.13875pt x 75.28125pt>
+File: images/29120.png Graphic file (type png)
+
+<use images/29120.png> <images/29121.png, id=14, 88.33pt x 83.31125pt>
+File: images/29121.png Graphic file (type png)
+
+<use images/29121.png> <images/29122.png, id=15, 32.12pt x 70.2625pt>
+File: images/29122.png Graphic file (type png)
+
+<use images/29122.png> <images/29123.png, id=16, 27.10126pt x 92.345pt>
+File: images/29123.png Graphic file (type png)
+
+<use images/29123.png> <images/29124.png, id=17, 88.33pt x 81.30376pt>
+File: images/29124.png Graphic file (type png)
+
+<use images/29124.png> <images/29125.png, id=18, 50.1875pt x 82.3075pt>
+File: images/29125.png Graphic file (type png)
+
+<use images/29125.png> <images/29126.png, id=19, 88.33pt x 86.3225pt>
+File: images/29126.png Graphic file (type png)
+
+<use images/29126.png> <images/29127.png, id=20, 32.12pt x 70.2625pt>
+File: images/29127.png Graphic file (type png)
+
+<use images/29127.png> <images/29128.png, id=21, 68.255pt x 84.315pt>
+File: images/29128.png Graphic file (type png)
+
+<use images/29128.png> <images/29129.png, id=22, 161.60374pt x 86.3225pt>
+File: images/29129.png Graphic file (type png)
+
+<use images/29129.png> <images/29130.png, id=23, 88.33pt x 76.285pt>
+File: images/29130.png Graphic file (type png)
+
+<use images/29130.png> <images/29131.png, id=24, 229.85875pt x 79.29625pt>
+File: images/29131.png Graphic file (type png)
+
+<use images/29131.png> <images/29132.png, id=25, 48.18pt x 82.3075pt>
+File: images/29132.png Graphic file (type png)
+
+<use images/29132.png> <images/29133.png, id=26, 88.33pt x 83.31125pt>
+File: images/29133.png Graphic file (type png)
+
+<use images/29133.png> <images/29134.png, id=27, 88.33pt x 82.3075pt>
+File: images/29134.png Graphic file (type png)
+
+<use images/29134.png> <images/29135.png, id=28, 38.1425pt x 79.29625pt>
+File: images/29135.png Graphic file (type png)
+
+<use images/29135.png> <images/29136.png, id=29, 88.33pt x 71.26625pt>
+File: images/29136.png Graphic file (type png)
+
+<use images/29136.png> <images/29137.png, id=30, 64.24pt x 79.29625pt>
+File: images/29137.png Graphic file (type png)
+
+<use images/29137.png> <images/29138.png, id=31, 68.255pt x 81.30376pt>
+File: images/29138.png Graphic file (type png)
+
+<use images/29138.png> <images/29139.png, id=32, 88.33pt x 86.3225pt>
+File: images/29139.png Graphic file (type png)
+
+<use images/29139.png> <images/29140.png, id=33, 88.33pt x 82.3075pt>
+File: images/29140.png Graphic file (type png)
+
+<use images/29140.png> <images/29141.png, id=34, 49.18375pt x 79.29625pt>
+File: images/29141.png Graphic file (type png)
+
+<use images/29141.png> <images/29142.png, id=35, 88.33pt x 86.3225pt>
+File: images/29142.png Graphic file (type png)
+
+<use images/29142.png> <images/29143.png, id=36, 88.33pt x 75.28125pt>
+File: images/29143.png Graphic file (type png)
+
+<use images/29143.png> <images/29144.png, id=37, 73.27374pt x 79.29625pt>
+File: images/29144.png Graphic file (type png)
+
+<use images/29144.png> <images/29145.png, id=38, 40.15pt x 82.3075pt>
+File: images/29145.png Graphic file (type png)
+
+<use images/29145.png> <images/29146.png, id=39, 47.17625pt x 86.3225pt>
+File: images/29146.png Graphic file (type png)
+
+<use images/29146.png> <images/29147.png, id=40, 155.58125pt x 86.3225pt>
+File: images/29147.png Graphic file (type png)
+
+<use images/29147.png> <images/29148.png, id=41, 36.135pt x 86.3225pt>
+File: images/29148.png Graphic file (type png)
+
+<use images/29148.png> <images/29149.png, id=42, 49.18375pt x 82.3075pt>
+File: images/29149.png Graphic file (type png)
+
+<use images/29149.png> <images/29150.png, id=43, 34.1275pt x 74.2775pt>
+File: images/29150.png Graphic file (type png)
+
+<use images/29150.png> <images/29151.png, id=44, 50.1875pt x 81.30376pt>
+File: images/29151.png Graphic file (type png)
+
+<use images/29151.png> <images/29152.png, id=45, 88.33pt x 90.3375pt>
+File: images/29152.png Graphic file (type png)
+
+<use images/29152.png> <images/29153.png, id=46, 187.70125pt x 83.31125pt>
+File: images/29153.png Graphic file (type png)
+
+<use images/29153.png> <images/29154.png, id=47, 87.32625pt x 81.30376pt>
+File: images/29154.png Graphic file (type png)
+
+<use images/29154.png> <images/29155.png, id=48, 42.1575pt x 77.28876pt>
+File: images/29155.png Graphic file (type png)
+
+<use images/29155.png> <images/29156.png, id=49, 71.26625pt x 79.29625pt>
+File: images/29156.png Graphic file (type png)
+
+<use images/29156.png> <images/29157.png, id=50, 88.33pt x 79.29625pt>
+File: images/29157.png Graphic file (type png)
+
+<use images/29157.png> <images/29158.png, id=51, 88.33pt x 82.3075pt>
+File: images/29158.png Graphic file (type png)
+
+<use images/29158.png> <images/29159.png, id=52, 67.25125pt x 75.28125pt>
+File: images/29159.png Graphic file (type png)
+
+<use images/29159.png> <images/29160.png, id=53, 35.13126pt x 78.2925pt>
+File: images/29160.png Graphic file (type png)
+
+<use images/29160.png> <images/29161.png, id=54, 152.57pt x 81.30376pt>
+File: images/29161.png Graphic file (type png)
+
+<use images/29161.png> <images/29162.png, id=55, 155.58125pt x 90.3375pt>
+File: images/29162.png Graphic file (type png)
+
+<use images/29162.png> <images/29163.png, id=56, 52.195pt x 75.28125pt>
+File: images/29163.png Graphic file (type png)
+
+<use images/29163.png> <images/29164.png, id=57, 88.33pt x 86.3225pt>
+File: images/29164.png Graphic file (type png)
+
+<use images/29164.png> <images/29165.png, id=58, 37.13875pt x 82.3075pt>
+File: images/29165.png Graphic file (type png)
+
+<use images/29165.png> <images/29166.png, id=59, 44.165pt x 74.2775pt>
+File: images/29166.png Graphic file (type png)
+
+<use images/29166.png> <images/29167.png, id=60, 32.12pt x 70.2625pt>
+File: images/29167.png Graphic file (type png)
+
+<use images/29167.png> <images/29168.png, id=61, 88.33pt x 77.28876pt>
+File: images/29168.png Graphic file (type png)
+
+<use images/29168.png> <images/29169.png, id=62, 161.60374pt x 90.3375pt>
+File: images/29169.png Graphic file (type png)
+
+<use images/29169.png> <images/29170.png, id=63, 88.33pt x 79.29625pt>
+File: images/29170.png Graphic file (type png)
+
+<use images/29170.png> <images/29171.png, id=64, 52.195pt x 83.31125pt>
+File: images/29171.png Graphic file (type png)
+
+<use images/29171.png> <images/29172.png, id=65, 98.3675pt x 78.2925pt>
+File: images/29172.png Graphic file (type png)
+
+<use images/29172.png> <images/29173.png, id=66, 88.33pt x 77.28876pt>
+File: images/29173.png Graphic file (type png)
+
+<use images/29173.png> <images/29174.png, id=67, 32.12pt x 70.2625pt>
+File: images/29174.png Graphic file (type png)
+
+<use images/29174.png> <images/29175.png, id=68, 32.12pt x 80.3pt>
+File: images/29175.png Graphic file (type png)
+
+<use images/29175.png> <images/29176.png, id=69, 52.195pt x 75.28125pt>
+File: images/29176.png Graphic file (type png)
+
+<use images/29176.png> <images/29177.png, id=70, 165.61874pt x 79.29625pt>
+File: images/29177.png Graphic file (type png)
+
+<use images/29177.png> <images/29178.png, id=71, 102.3825pt x 79.29625pt>
+File: images/29178.png Graphic file (type png)
+
+<use images/29178.png> <images/29179.png, id=72, 165.61874pt x 82.3075pt>
+File: images/29179.png Graphic file (type png)
+
+<use images/29179.png> <images/29180.png, id=73, 44.165pt x 80.3pt>
+File: images/29180.png Graphic file (type png)
+
+<use images/29180.png> <images/29181.png, id=74, 77.28876pt x 76.285pt>
+File: images/29181.png Graphic file (type png)
+
+<use images/29181.png> <images/29450.png, id=75, 78.2925pt x 83.31125pt>
+File: images/29450.png Graphic file (type png)
+
+<use images/29450.png> <images/29451.png, id=76, 45.16875pt x 78.2925pt>
+File: images/29451.png Graphic file (type png)
+
+<use images/29451.png> <images/29452.png, id=77, 88.33pt x 78.2925pt>
+File: images/29452.png Graphic file (type png)
+
+<use images/29452.png> <images/29453.png, id=78, 111.41624pt x 75.28125pt>
+File: images/29453.png Graphic file (type png)
+
+<use images/29453.png> <images/29454.png, id=79, 50.1875pt x 67.25125pt>
+File: images/29454.png Graphic file (type png)
+
+<use images/29454.png> <images/29455.png, id=80, 32.12pt x 70.2625pt>
+File: images/29455.png Graphic file (type png)
+
+<use images/29455.png> <images/29456.png, id=81, 86.3225pt x 94.3525pt>
+File: images/29456.png Graphic file (type png)
+
+<use images/29456.png> <images/29457.png, id=82, 60.225pt x 70.2625pt>
+File: images/29457.png Graphic file (type png)
+
+<use images/29457.png> <images/29458.png, id=83, 84.315pt x 84.315pt>
+File: images/29458.png Graphic file (type png)
+
+<use images/29458.png> <images/29459.png, id=84, 59.22125pt x 77.28876pt>
+File: images/29459.png Graphic file (type png)
+
+<use images/29459.png> <images/29460.png, id=85, 88.33pt x 86.3225pt>
+File: images/29460.png Graphic file (type png)
+
+<use images/29460.png> <images/29461.png, id=86, 59.22125pt x 81.30376pt>
+File: images/29461.png Graphic file (type png)
+
+<use images/29461.png> <images/29462.png, id=87, 35.13126pt x 78.2925pt>
+File: images/29462.png Graphic file (type png)
+
+<use images/29462.png> <images/29463.png, id=88, 152.57pt x 81.30376pt>
+File: images/29463.png Graphic file (type png)
+
+<use images/29463.png> <images/29464.png, id=89, 88.33pt x 83.31125pt>
+File: images/29464.png Graphic file (type png)
+
+<use images/29464.png> <images/29465.png, id=90, 32.12pt x 80.3pt>
+File: images/29465.png Graphic file (type png)
+
+<use images/29465.png> <images/29466.png, id=91, 37.13875pt x 75.28125pt>
+File: images/29466.png Graphic file (type png)
+
+<use images/29466.png> <images/29467.png, id=92, 88.33pt x 83.31125pt>
+File: images/29467.png Graphic file (type png)
+
+<use images/29467.png> <images/29468.png, id=93, 32.12pt x 70.2625pt>
+File: images/29468.png Graphic file (type png)
+
+<use images/29468.png> <images/29469.png, id=94, 27.10126pt x 92.345pt>
+File: images/29469.png Graphic file (type png)
+
+<use images/29469.png> <images/29470.png, id=95, 88.33pt x 81.30376pt>
+File: images/29470.png Graphic file (type png)
+
+<use images/29470.png> <images/29471.png, id=96, 111.41624pt x 85.31876pt>
+File: images/29471.png Graphic file (type png)
+
+<use images/29471.png> <images/29472.png, id=97, 88.33pt x 83.31125pt>
+File: images/29472.png Graphic file (type png)
+
+<use images/29472.png> <images/29473.png, id=98, 89.33376pt x 85.31876pt>
+File: images/29473.png Graphic file (type png)
+
+<use images/29473.png> <images/29474.png, id=99, 98.3675pt x 82.3075pt>
+File: images/29474.png Graphic file (type png)
+
+<use images/29474.png> <images/29475.png, id=100, 114.4275pt x 76.285pt>
+File: images/29475.png Graphic file (type png)
+
+<use images/29475.png> <images/29476.png, id=101, 102.3825pt x 86.3225pt>
+File: images/29476.png Graphic file (type png)
+
+<use images/29476.png> <images/29477.png, id=102, 55.20625pt x 80.3pt>
+File: images/29477.png Graphic file (type png)
+
+<use images/29477.png> <images/29478.png, id=103, 187.70125pt x 76.285pt>
+File: images/29478.png Graphic file (type png)
+
+<use images/29478.png> <images/29479.png, id=104, 62.2325pt x 85.31876pt>
+File: images/29479.png Graphic file (type png)
+
+<use images/29479.png> <images/29480.png, id=105, 107.40125pt x 83.31125pt>
+File: images/29480.png Graphic file (type png)
+
+<use images/29480.png> <images/29481.png, id=106, 69.25874pt x 80.3pt>
+File: images/29481.png Graphic file (type png)
+
+<use images/29481.png> <images/29482.png, id=107, 39.14626pt x 70.2625pt>
+File: images/29482.png Graphic file (type png)
+
+<use images/29482.png> <images/29483.png, id=108, 67.25125pt x 81.30376pt>
+File: images/29483.png Graphic file (type png)
+
+<use images/29483.png> <images/29809.png, id=109, 106.3975pt x 86.3225pt>
+File: images/29809.png Graphic file (type png)
+
+<use images/29809.png> <images/29810.png, id=110, 58.2175pt x 92.345pt>
+File: images/29810.png Graphic file (type png)
+
+<use images/29810.png> <images/29811.png, id=111, 88.33pt x 83.31125pt>
+File: images/29811.png Graphic file (type png)
+
+<use images/29811.png> <images/29812.png, id=112, 75.28125pt x 78.2925pt>
+File: images/29812.png Graphic file (type png)
+
+<use images/29812.png> <images/29813.png, id=113, 57.21375pt x 81.30376pt>
+File: images/29813.png Graphic file (type png)
+
+<use images/29813.png> <images/29814.png, id=114, 78.2925pt x 85.31876pt>
+File: images/29814.png Graphic file (type png)
+
+<use images/29814.png> <images/29815.png, id=115, 88.33pt x 76.285pt>
+File: images/29815.png Graphic file (type png)
+
+<use images/29815.png> <images/29816.png, id=116, 34.1275pt x 74.2775pt>
+File: images/29816.png Graphic file (type png)
+
+<use images/29816.png> <images/29817.png, id=117, 57.21375pt x 74.2775pt>
+File: images/29817.png Graphic file (type png)
+
+<use images/29817.png> <images/29818.png, id=118, 99.37125pt x 83.31125pt>
+File: images/29818.png Graphic file (type png)
+
+<use images/29818.png> <images/29819.png, id=119, 87.32625pt x 85.31876pt>
+File: images/29819.png Graphic file (type png)
+
+<use images/29819.png> <images/29820.png, id=120, 35.13126pt x 90.3375pt>
+File: images/29820.png Graphic file (type png)
+
+<use images/29820.png> <images/29821.png, id=121, 34.1275pt x 74.2775pt>
+File: images/29821.png Graphic file (type png)
+
+<use images/29821.png> <images/29822.png, id=122, 39.14626pt x 89.33376pt>
+File: images/29822.png Graphic file (type png)
+
+<use images/29822.png> <images/29823.png, id=123, 88.33pt x 82.3075pt>
+File: images/29823.png Graphic file (type png)
+
+<use images/29823.png> <images/29824.png, id=124, 58.2175pt x 84.315pt>
+File: images/29824.png Graphic file (type png)
+
+<use images/29824.png> <images/29825.png, id=125, 44.165pt x 80.3pt>
+File: images/29825.png Graphic file (type png)
+
+<use images/29825.png> <images/29826.png, id=126, 76.285pt x 85.31876pt>
+File: images/29826.png Graphic file (type png)
+
+<use images/29826.png> <images/29827.png, id=127, 102.3825pt x 83.31125pt>
+File: images/29827.png Graphic file (type png)
+
+<use images/29827.png> <images/29828.png, id=128, 34.1275pt x 82.3075pt>
+File: images/29828.png Graphic file (type png)
+
+<use images/29828.png> <images/29829.png, id=129, 22.0825pt x 72.27pt>
+File: images/29829.png Graphic file (type png)
+
+<use images/29829.png> <images/29830.png, id=130, 53.19875pt x 73.27374pt>
+File: images/29830.png Graphic file (type png)
+
+<use images/29830.png> <images/29831.png, id=131, 71.26625pt x 79.29625pt>
+File: images/29831.png Graphic file (type png)
+
+<use images/29831.png> <images/29832.png, id=132, 50.1875pt x 81.30376pt>
+File: images/29832.png Graphic file (type png)
+
+<use images/29832.png> <images/29833.png, id=133, 65.24374pt x 86.3225pt>
+File: images/29833.png Graphic file (type png)
+
+<use images/29833.png> <images/29834.png, id=134, 37.13875pt x 75.28125pt>
+File: images/29834.png Graphic file (type png)
+
+<use images/29834.png> <images/29835.png, id=135, 88.33pt x 82.3075pt>
+File: images/29835.png Graphic file (type png)
+
+<use images/29835.png> <images/29836.png, id=136, 35.13126pt x 90.3375pt>
+File: images/29836.png Graphic file (type png)
+
+<use images/29836.png> <images/29837.png, id=137, 74.2775pt x 82.3075pt>
+File: images/29837.png Graphic file (type png)
+
+<use images/29837.png> <images/29838.png, id=138, 50.1875pt x 81.30376pt>
+File: images/29838.png Graphic file (type png)
+
+<use images/29838.png> <images/29839.png, id=139, 88.33pt x 90.3375pt>
+File: images/29839.png Graphic file (type png)
+
+<use images/29839.png> <images/29840.png, id=140, 32.12pt x 70.2625pt>
+File: images/29840.png Graphic file (type png)
+
+<use images/29840.png> <images/29841.png, id=141, 40.15pt x 87.32625pt>
+File: images/29841.png Graphic file (type png)
+
+<use images/29841.png> <images/29842.png, id=142, 187.70125pt x 83.31125pt>
+File: images/29842.png Graphic file (type png)
+
+<use images/29842.png> <images/29843.png, id=143, 164.615pt x 89.33376pt>
+File: images/29843.png Graphic file (type png)
+
+<use images/29843.png> <images/29844.png, id=144, 88.33pt x 83.31125pt>
+File: images/29844.png Graphic file (type png)
+
+<use images/29844.png> <images/29845.png, id=145, 44.165pt x 80.3pt>
+File: images/29845.png Graphic file (type png)
+
+<use images/29845.png> <images/29846.png, id=146, 82.3075pt x 82.3075pt>
+File: images/29846.png Graphic file (type png)
+
+<use images/29846.png> <images/29847.png, id=147, 198.7425pt x 82.3075pt>
+File: images/29847.png Graphic file (type png)
+
+<use images/29847.png> <images/29848.png, id=148, 88.33pt x 90.3375pt>
+File: images/29848.png Graphic file (type png)
+
+<use images/29848.png> <images/29849.png, id=149, 62.2325pt x 75.28125pt>
+File: images/29849.png Graphic file (type png)
+
+<use images/29849.png> <images/29850.png, id=150, 74.2775pt x 83.31125pt>
+File: images/29850.png Graphic file (type png)
+
+<use images/29850.png> <images/29851.png, id=151, 90.3375pt x 78.2925pt>
+File: images/29851.png Graphic file (type png)
+
+<use images/29851.png> <images/29852.png, id=152, 88.33pt x 70.2625pt>
+File: images/29852.png Graphic file (type png)
+
+<use images/29852.png> <images/29853.png, id=153, 125.46875pt x 85.31876pt>
+File: images/29853.png Graphic file (type png)
+
+<use images/29853.png> <images/29854.png, id=154, 57.21375pt x 88.33pt>
+File: images/29854.png Graphic file (type png)
+
+<use images/29854.png> <images/29855.png, id=155, 68.255pt x 77.28876pt>
+File: images/29855.png Graphic file (type png)
+
+<use images/29855.png> <images/29856.png, id=156, 32.12pt x 62.2325pt>
+File: images/29856.png Graphic file (type png)
+
+<use images/29856.png> <images/29857.png, id=157, 88.33pt x 78.2925pt>
+File: images/29857.png Graphic file (type png)
+
+<use images/29857.png> <images/29858.png, id=158, 88.33pt x 82.3075pt>
+File: images/29858.png Graphic file (type png)
+
+<use images/29858.png> <images/29859.png, id=159, 113.42375pt x 83.31125pt>
+File: images/29859.png Graphic file (type png)
+
+<use images/29859.png> <images/29860.png, id=160, 187.70125pt x 83.31125pt>
+File: images/29860.png Graphic file (type png)
+
+<use images/29860.png> <images/29861.png, id=161, 87.32625pt x 81.30376pt>
+File: images/29861.png Graphic file (type png)
+
+<use images/29861.png> <images/29862.png, id=162, 42.1575pt x 77.28876pt>
+File: images/29862.png Graphic file (type png)
+
+<use images/29862.png> <images/29863.png, id=163, 88.33pt x 79.29625pt>
+File: images/29863.png Graphic file (type png)
+
+<use images/29863.png> <images/29864.png, id=164, 67.25125pt x 75.28125pt>
+File: images/29864.png Graphic file (type png)
+
+<use images/29864.png>
+Overfull \hbox (289.3046pt too wide) in paragraph at lines 188--189
+[][] 
+ []
+
+) [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \vbox (6731.34471pt too high) has occurred while \output is active []
+
+
+[2 <./images/29112.png> <./images/29113.png> <./images/29114.png> <./images/291
+15.png> <./images/29116.png> <./images/29117.png> <./images/29118.png> <./image
+s/29119.png> <./images/29120.png> <./images/29121.png> <./images/29122.png> <./
+images/29123.png> <./images/29124.png> <./images/29125.png> <./images/29126.png
+> <./images/29127.png> <./images/29128.png> <./images/29129.png> <./images/2913
+0.png> <./images/29131.png> <./images/29132.png> <./images/29133.png> <./images
+/29134.png> <./images/29135.png> <./images/29136.png> <./images/29137.png> <./i
+mages/29138.png> <./images/29139.png> <./images/29140.png> <./images/29141.png>
+ <./images/29142.png> <./images/29143.png> <./images/29144.png> <./images/29145
+.png> <./images/29146.png> <./images/29147.png> <./images/29148.png> <./images/
+29149.png> <./images/29150.png> <./images/29151.png> <./images/29152.png> <./im
+ages/29153.png> <./images/29154.png> <./images/29155.png> <./images/29156.png> 
+<./images/29157.png> <./images/29158.png> <./images/29159.png> <./images/29160.
+png> <./images/29161.png> <./images/29162.png> <./images/29163.png> <./images/2
+9164.png> <./images/29165.png> <./images/29166.png> <./images/29167.png> <./ima
+ges/29168.png> <./images/29169.png> <./images/29170.png> <./images/29171.png> <
+./images/29172.png> <./images/29173.png> <./images/29174.png> <./images/29175.p
+ng> <./images/29176.png> <./images/29177.png> <./images/29178.png> <./images/29
+179.png> <./images/29180.png> <./images/29181.png> <./images/29450.png> <./imag
+es/29451.png> <./images/29452.png> <./images/29453.png> <./images/29454.png> <.
+/images/29455.png> <./images/29456.png> <./images/29457.png> <./images/29458.pn
+g> <./images/29459.png> <./images/29460.png> <./images/29461.png> <./images/294
+62.png> <./images/29463.png> <./images/29464.png> <./images/29465.png> <./image
+s/29466.png> <./images/29467.png> <./images/29468.png> <./images/29469.png> <./
+images/29470.png> <./images/29471.png> <./images/29472.png> <./images/29473.png
+> <./images/29474.png> <./images/29475.png> <./images/29476.png> <./images/2947
+7.png> <./images/29478.png> <./images/29479.png> <./images/29480.png> <./images
+/29481.png> <./images/29482.png> <./images/29483.png> <./images/29809.png> <./i
+mages/29810.png> <./images/29811.png> <./images/29812.png> <./images/29813.png>
+ <./images/29814.png> <./images/29815.png> <./images/29816.png> <./images/29817
+.png> <./images/29818.png> <./images/29819.png> <./images/29820.png> <./images/
+29821.png> <./images/29822.png> <./images/29823.png> <./images/29824.png> <./im
+ages/29825.png> <./images/29826.png> <./images/29827.png> <./images/29828.png> 
+<./images/29829.png> <./images/29830.png> <./images/29831.png> <./images/29832.
+png> <./images/29833.png> <./images/29834.png> <./images/29835.png> <./images/2
+9836.png> <./images/29837.png> <./images/29838.png> <./images/29839.png> <./ima
+ges/29840.png> <./images/29841.png> <./images/29842.png> <./images/29843.png> <
+./images/29844.png> <./images/29845.png> <./images/29846.png> <./images/29847.p
+ng> <./images/29848.png> <./images/29849.png> <./images/29850.png> <./images/29
+851.png> <./images/29852.png> <./images/29853.png> <./images/29854.png> <./imag
+es/29855.png> <./images/29856.png> <./images/29857.png> <./images/29858.png> <.
+/images/29859.png> <./images/29860.png> <./images/29861.png> <./images/29862.pn
+g> <./images/29863.png> <./images/29864.png>] (./a2.aux (./table2.aux)) ) 
+Here is how much of TeX's memory you used:
+ 12978 strings out of 495061
+ 265584 string characters out of 1182621
+ 364358 words of memory out of 3000000
+ 15810 multiletter control sequences out of 15000+50000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 56i,6n,56p,418b,533s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on a2.pdf (2 pages, 572668 bytes).
+PDF statistics:
+ 337 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 813 words of extra memory for PDF output out of 10000 (max. 10000000)
+
